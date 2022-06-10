@@ -1,0 +1,24 @@
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.exe
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.deps.json
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.runtimeconfig.json
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.runtimeconfig.dev.json
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.dll
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.pdb
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.csprojAssemblyReference.cache
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.AssemblyInfoInputs.cache
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.AssemblyInfo.cs
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.dll
+C:\Users\saini\Desktop\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.pdb
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.exe
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.deps.json
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.runtimeconfig.json
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.runtimeconfig.dev.json
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.dll
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\bin\Debug\netcoreapp3.1\PS_Assign1.pdb
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.csproj.AssemblyReference.cache
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.AssemblyInfoInputs.cache
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.AssemblyInfo.cs
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.dll
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.pdb
+C:\Users\saini\Desktop\New folder\Winter 2020(Jan-Apr)\Introduction To Programming(1175)\PS_Assign1\PS_Assign1\obj\Debug\netcoreapp3.1\PS_Assign1.genruntimeconfig.cache
