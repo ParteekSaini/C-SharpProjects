@@ -1,0 +1,13 @@
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.exe
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.deps.json
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.runtimeconfig.json
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.runtimeconfig.dev.json
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.dll
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\bin\Debug\netcoreapp3.1\SalaryApp.pdb
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.AssemblyInfo.cs
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.dll
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.pdb
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\SalaryApp\SalaryApp\obj\Debug\netcoreapp3.1\SalaryApp.genruntimeconfig.cache
