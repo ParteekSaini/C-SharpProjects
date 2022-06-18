@@ -1,0 +1,11 @@
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\bin\Debug\The Tickets Form.exe.config
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\bin\Debug\The Tickets Form.exe
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\bin\Debug\The Tickets Form.pdb
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The Tickets Form.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The_Tickets_Form.Form1.resources
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The_Tickets_Form.Properties.Resources.resources
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The Tickets Form.csproj.GenerateResource.cache
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The Tickets Form.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The Tickets Form.exe
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The Tickets Form.pdb
+C:\Users\saini\source\repos\The Tickets Form\The Tickets Form\obj\Debug\The_Tickets_Form.Options.resources
