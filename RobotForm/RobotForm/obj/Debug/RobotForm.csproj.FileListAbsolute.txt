@@ -1,0 +1,10 @@
+C:\Users\saini\source\repos\RobotForm\RobotForm\bin\Debug\RobotForm.exe.config
+C:\Users\saini\source\repos\RobotForm\RobotForm\bin\Debug\RobotForm.exe
+C:\Users\saini\source\repos\RobotForm\RobotForm\bin\Debug\RobotForm.pdb
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.Form1.resources
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.Properties.Resources.resources
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.csproj.GenerateResource.cache
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.exe
+C:\Users\saini\source\repos\RobotForm\RobotForm\obj\Debug\RobotForm.pdb
