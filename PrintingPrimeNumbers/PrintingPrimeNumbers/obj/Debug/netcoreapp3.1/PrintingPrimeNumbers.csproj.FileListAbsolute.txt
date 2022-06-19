@@ -1,0 +1,10 @@
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.exe
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.deps.json
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.runtimeconfig.json
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.runtimeconfig.dev.json
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.dll
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\bin\Debug\netcoreapp3.1\PrintingPrimeNumbers.pdb
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\obj\Debug\netcoreapp3.1\PrintingPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\obj\Debug\netcoreapp3.1\PrintingPrimeNumbers.AssemblyInfo.cs
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\obj\Debug\netcoreapp3.1\PrintingPrimeNumbers.dll
+C:\Users\saini\source\repos\PrintingPrimeNumbers\PrintingPrimeNumbers\obj\Debug\netcoreapp3.1\PrintingPrimeNumbers.pdb
