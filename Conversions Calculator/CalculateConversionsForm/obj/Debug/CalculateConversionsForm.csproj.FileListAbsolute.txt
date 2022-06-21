@@ -1,0 +1,12 @@
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\bin\Debug\CalculateConversionsForm.exe.config
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\bin\Debug\CalculateConversionsForm.exe
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\bin\Debug\CalculateConversionsForm.pdb
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.Form1.resources
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.ManageConversionsForm.resources
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.Properties.Resources.resources
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.csproj.GenerateResource.cache
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.exe
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.pdb
+C:\Users\saini\source\repos\CalculateConversionsForm\CalculateConversionsForm\obj\Debug\CalculateConversionsForm.AddConversionsForm.resources
